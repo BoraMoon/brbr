@@ -12,3 +12,9 @@
 
 관련링크 : http://www.rasplay.org/?p=3277    https://kbench.com/?q=node/185923
 
+
+필요한 물품 
+파이카메라 : http://www.devicemart.co.kr/1077951
+이어폰 : http://www.devicemart.co.kr/1378064
+안경 : http://www.devicemart.co.kr/1138316
+
