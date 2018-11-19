@@ -100,5 +100,5 @@ o 실습절차
 
 
 6.관련 사진
--
+-(https://user-images.githubusercontent.com/43947736/48690148-b54aa500-ec10-11e8-8753-701f708c5ca3.jpg)
 
