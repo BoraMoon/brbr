@@ -66,3 +66,39 @@ opev cv 설치 오류..
 o관련 링크
 
 --http://deepdeepit.tistory.com/19
+
+
+
+2018 11 18 12주차 ( 실습  보고서 )
+
+1. 프로젝명 : 스마트 안경
+
+2. 금주 실습할 내용
+
+o 실습명 : 라즈베리파이에 opevCV 재설치
+
+o 실습절차
+
+가.라즈베리파이에 opev CV 재설치
+
+나.open CV 이용하여 영상처리
+
+3. 결과
+
+-라즈베리파이에 open CV 설치중
+
+
+4. 소감 및 질문
+
+- 라즈베리파이에 open CV 설치가 생각보다 너무 어렵고, 오류가 많이 뜬다. 
+ 교수님이 올려주신 링크를 이용하여 재 설치중
+
+5. 관련 링크
+
+- open CV : http://deepdeepit.tistory.com/19?fbclid=IwAR3xMtoa9vryhZXKwtAkASiirDSLu7qVNEaO50lEKSZEjDnJy6-srfm3U2w
+
+
+
+6.관련 사진
+-
+
